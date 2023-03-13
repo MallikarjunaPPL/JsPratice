@@ -1,0 +1,19 @@
+
+.brow_cont{
+    display: flex;
+
+}.img_styling{
+    height:40px;
+    width:50px;
+   
+}
+.para_cont{
+    width:90%;
+}
+.delete_sty{
+    margin-right:50px;
+    background-color: white; 
+    border-width: 0px;
+    height:40px;
+    width:30px;
+}
